@@ -1,0 +1,19 @@
+.container{
+    margin-top: 40px;
+    padding: 40px;
+    border: 1px solid grey;
+}
+
+.inicio{
+    text-align: center;
+}
+
+.inicio-text{
+    font-size: 20px;
+}
+
+.section1{
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    margin: 2px 0px 2px 0px;
+}
